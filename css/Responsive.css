@@ -1,0 +1,15 @@
+@media(max-width:768px){
+
+.navbar nav{
+display:none;
+}
+
+.bottom-nav{
+display:flex;
+}
+
+.hero{
+padding-bottom:120px;
+}
+
+}
