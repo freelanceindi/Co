@@ -1,0 +1,27 @@
+.bottom-nav{
+
+  position:fixed;
+
+  bottom:0;
+
+  left:0;
+
+  width:100%;
+
+  display:none;
+
+  justify-content:space-around;
+
+  padding:14px;
+
+  background:#121214;
+
+  border-top:1px solid var(--border);
+
+  z-index:999;
+}
+
+.bottom-nav a{
+
+  font-size:1.4rem;
+}
