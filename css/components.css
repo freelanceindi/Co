@@ -114,3 +114,23 @@ color:#A1A1AA;
 background:#18181B;
 
 }
+
+.badge{
+
+display:inline-block;
+
+padding:6px 12px;
+
+background:#22C55E;
+
+border-radius:30px;
+
+font-size:12px;
+
+margin-bottom:15px;
+
+font-weight:600;
+
+color:#fff;
+
+}
